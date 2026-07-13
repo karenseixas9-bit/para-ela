@@ -1,0 +1,21 @@
+SITE ROMÂNTICO
+
+Arquivos necessários:
+- index.html
+- style.css
+- script.js
+
+COMO PUBLICAR NO GITHUB PAGES
+
+1. Extraia este ZIP.
+2. No seu repositório do GitHub, apague o ZIP antigo, se desejar.
+3. Clique em Add file > Upload files.
+4. Envie index.html, style.css e script.js separadamente.
+5. Clique em Commit changes.
+6. Entre em Settings > Pages.
+7. Em Source, selecione Deploy from a branch.
+8. Escolha a branch main e a pasta /(root).
+9. Clique em Save.
+
+A música é reproduzida pelo player incorporado do YouTube após o clique no envelope.
+Isso depende de conexão com a internet e da disponibilidade do vídeo no YouTube.
